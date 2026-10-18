@@ -8,7 +8,7 @@ Implemented - Main things
 
 1. Simple .xvc debugging
 2. Decent .xvd debugging (encryption checks, version checks, etc)- firmware still isn't bootable
-3. Game booting, games like Sonic Mania boot up to the title screen at the moment (trying to get other ones to boot soon too)
+3. Game booting, simple ones like Sonic Mania boot up to the title screen at the moment (trying to get some other ones to boot soon too)
 4. Xbox input translated to keyboard keybinds
 5. All types of logs like activity logs, console logs, etc
 6. And much more

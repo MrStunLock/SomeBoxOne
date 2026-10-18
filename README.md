@@ -2,7 +2,7 @@
 
 SomeBoxOne is a open source C++ & CMake Xbox One Emulator which will try and emulate the must of the Xbox One
 ---------------------------------------
-The project is still in VERY EARLY development so a lot of things are incomplete and not working correctly or properly as of right now!
+This project is still in VERY EARLY development so a lot of things are incomplete and not working correctly or properly as of right now!
 ----------
 Implemented - Main things
 

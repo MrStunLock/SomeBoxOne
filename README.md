@@ -20,3 +20,5 @@ Screenshots;
 
 ------------------------
 Also yes, this project is AI assisted but only used as a tool to speed this project up but through the lifetime of this project and with some help, the usage should be way more decreased and or fully stop! 
+
+Here is the discord link to the main server for this emulator; https://discord.gg/7E8dTSBnE

@@ -1,4 +1,4 @@
-<img width="980" height="980" alt="Temporary Icon" src="https://github.com/user-attachments/assets/e3ef890a-4243-4586-888c-4a36a03bffe4" />
+<img width="256" height="256" alt="SomeBoxOne" src="https://github.com/user-attachments/assets/291ded44-eba2-42e5-9563-8dddb367671c" />
 
 SomeBoxOne is a open source C++ & CMake Xbox One Emulator which will try and emulate must of the Xbox One
 ---------------------------------------

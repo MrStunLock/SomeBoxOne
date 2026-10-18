@@ -1,8 +1,8 @@
 <img width="256" height="256" alt="SomeBoxOne" src="https://github.com/user-attachments/assets/291ded44-eba2-42e5-9563-8dddb367671c" />
 
-SomeBoxOne is a open source C++ & CMake Xbox One Emulator which will try and emulate must of the Xbox One
+SomeBoxOne is a open source C++ & CMake Xbox One Emulator which will try and emulate the must of the Xbox One
 ---------------------------------------
-The project is still in VERY EARLY development so a lot of things are incomplete and not working correctly or properly!
+The project is still in VERY EARLY development so a lot of things are incomplete and not working correctly or properly as of right now!
 ----------
 Implemented - Main things
 

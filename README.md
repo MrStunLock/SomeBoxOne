@@ -15,5 +15,4 @@ Implemented - Main things
 ------------------
 Screenshots;
 <img width="1919" height="1025" alt="Screenshot 2026-10-18 164858" src="https://github.com/user-attachments/assets/28066075-e64a-4a2d-bb33-c6a814e222f6" />
-<img width="1053" height="787" alt="Screenshot 2026-10-18 164611" src="https://github.com/user-attachments/assets/9166b98a-7c5d-45f6-a725-707bd3fb6d92" />
-<img width="1054" height="788" alt="Screenshot 2026-10-18 164551" src="https://github.com/user-attachments/assets/3ee11084-9875-4eaa-97fe-e8320cb74bb5" />
+

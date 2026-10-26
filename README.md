@@ -14,11 +14,16 @@ Main things Implemented
 ------------------
 Currently Tested Game Compatibility
 
-Sonic Mania - In-Game (Fully playable, no graphical glitches found in the early game) -
-Minecraft 1.2 - Boots (Audio is only played on the current build) - 
+Sonic Mania - In-Game (Fully playable, no graphical glitches found in the early game) - 
+
+Minecraft 1.2 - Boots (Audio is only played on the current build) - <img width="1919" height="1025" alt="Screenshot 2026-10-26 175939" src="https://github.com/user-attachments/assets/0ea3da50-fdc3-41a4-8994-b52ea60cf427" />
+
 Cuphead - Splash Screen  -
+
 Peggle 2 - Splash Screen -
-Terraria - Nothing - 
+
+Terraria - Nothing -
+
 Minecraft Bedrock - Nothing -
 
 

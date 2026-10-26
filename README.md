@@ -31,7 +31,7 @@ Minecraft Bedrock - Nothing - <img width="1919" height="1018" alt="Screenshot 20
 ------------------------
 To access your activity log & game session output, go to %LOCALAPPDATA%\SomeBoxOne\Logs, 
 ------
-to access your SomeBoxOne.ini (the settings file), go to %LOCALAPPDATA%\SomeBoxOne, 
+To access your SomeBoxOne.ini (the settings file), go to %LOCALAPPDATA%\SomeBoxOne, 
 ----
 And for the game reports, make sure to end the game process (If the emulator didn't do that immediately) and press the "Save Game Report..." button and select what location on your pc you want to save that report log! 
 ----

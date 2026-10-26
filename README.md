@@ -2,18 +2,24 @@
 
 SomeBoxOne is a open source C++ & CMake Xbox One Emulator which will try and emulate the most of the Xbox One
 ---------------------------------------
-This project is still in VERY EARLY development so a lot of things are incomplete and not working correctly or properly as of right now!- I only started it less than 2 weeks ago as of right now
+This project is still in VERY EARLY development so a lot of things are incomplete and not working correctly or properly as of right now!- I only started it around the 13th Of October this year
 ----------
-Implemented - Main things
+Main things Implemented
 
 1. Simple .xvc debugging
 2. Decent .xvd debugging (encryption checks, version checks, etc)- firmware still isn't bootable
-3. Game booting, simple ones like Sonic Mania boot up to the title screen at the moment (trying to get some other ones to boot soon too)
-4. Xbox input translated to keyboard keybinds
-5. All types of logs like activity logs, console logs, etc
-6. And much more
+3. Booting up & playing games (Like Sonic Mania fully playable with Minecraft booting with just sound present at the moment)
+4. Xbox input translated to keyboard keybinds (with many more xbox features being introduced and or present already in the emulator)
+5. All types of logs like activity logs, game report logs, game session output, and much more
 ------------------
-Screenshots;
+Currently Tested Game Compatibility
+
+Sonic Mania - In-Game (Fully playable, no graphical glitches found in the early game) -
+Minecraft 1.2 - Boots (Audio is only played on the current build) - 
+Cuphead - Splash Screen  -
+Peggle 2 - Splash Screen -
+Terraria - Nothing - 
+Minecraft Bedrock - Nothing -
 
 
 ------------------------

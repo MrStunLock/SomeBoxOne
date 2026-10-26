@@ -1,0 +1,2 @@
+#define IDI_APP_ICON 101
+IDI_APP_ICON ICON "@CMAKE_CURRENT_SOURCE_DIR@/src/app_icon.ico"

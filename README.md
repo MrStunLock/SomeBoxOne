@@ -16,16 +16,17 @@ Currently Tested Game Compatibility
 
 Sonic Mania - In-Game (Fully playable, no graphical glitches found in the early game) - 
 
-Minecraft 1.2 - Boots (Audio is only played on the current build) - <img width="1919" height="1025" alt="Screenshot 2026-10-26 175939" src="https://github.com/user-attachments/assets/0ea3da50-fdc3-41a4-8994-b52ea60cf427" />
-
-Cuphead - Splash Screen  -
-
+---
+Minecraft 1.2 - Boots (Audio is only played on the current build) <img width="1919" height="1025" alt="Screenshot 2026-10-26 175939" src="https://github.com/user-attachments/assets/0ea3da50-fdc3-41a4-8994-b52ea60cf427" />
+---
+Cuphead - Splash Screen  - <img width="1919" height="1020" alt="Screenshot 2026-10-26 180305" src="https://github.com/user-attachments/assets/6ebe1f62-1166-4231-bab0-8f998a258f58" />
+---
 Peggle 2 - Splash Screen -
-
+----
 Terraria - Nothing -
-
+----
 Minecraft Bedrock - Nothing -
-
+----
 
 ------------------------
 Also yes, this project is AI assisted but only used as a tool to speed this project up but through the lifetime of this project and with some help, the usage should be way more decreased and or fully stop! 

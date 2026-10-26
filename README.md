@@ -10,12 +10,12 @@ Main things Implemented
 2. Decent .xvd debugging (encryption checks, version checks, etc)- firmware still isn't bootable
 3. Booting up & playing games (Like Sonic Mania fully playable with Minecraft booting with just sound present at the moment)
 4. Xbox input translated to keyboard keybinds (with many more xbox features being introduced and or present already in the emulator)
-5. All types of logs like activity logs, game report logs, game session output, and much more<
+5. All types of logs like activity logs, game report logs, game session output, and much more
 
 ------------------
 Currently Tested Game Compatibility
 
-Sonic Mania - In-Game (Fully playable, no graphical glitches found in the early game) - img width="1919" height="1020" alt="Screenshot 2026-10-26 183851" src="https://github.com/user-attachments/assets/a9da1de2-9b3d-418a-ae8f-75ffc7e81476"/>
+Sonic Mania - In-Game (Fully playable, no graphical glitches found in the early game) - <img width="1919" height="1020" alt="Screenshot 2026-10-26 183851" src="https://github.com/user-attachments/assets/a9da1de2-9b3d-418a-ae8f-75ffc7e81476"/>
 ---
 Minecraft 1.2 - Boots (Audio is only played on the current build) <img width="1919" height="1025" alt="Screenshot 2026-10-26 175939" src="https://github.com/user-attachments/assets/0ea3da50-fdc3-41a4-8994-b52ea60cf427" />
 ---
